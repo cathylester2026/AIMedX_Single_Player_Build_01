@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/aimedx-single-player/'
+  base: '/AIMedX_Single_Player_Build_01/'
 })
